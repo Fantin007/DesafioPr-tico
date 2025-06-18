@@ -1,6 +1,6 @@
-## Projeto: Sistema Clínico com Tabela Hash e Estruturas de Dados
+# Projeto: Sistema Clínico com Tabela Hash e Estruturas de Dados
 
-# Descrição:
+## Descrição:
 - Implementa cadastro e gerenciamento de pacientes usando tabela hash (com encadeamento separado).
 - Usa CPF como chave única para busca e atualização.
 - Calcula prioridade automaticamente com base em parâmetros clínicos.
