@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\DesafioMedico\DesafioMedico\obj\Debug\DesafioMedico.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\DesafioMedico\DesafioMedico\obj\Debug\DesafioMedico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\DesafioMedico\DesafioMedico\bin\Debug\DesafioMedico.exe.config
+C:\Users\Aluno\source\repos\DesafioMedico\DesafioMedico\bin\Debug\DesafioMedico.exe
+C:\Users\Aluno\source\repos\DesafioMedico\DesafioMedico\bin\Debug\DesafioMedico.pdb
+C:\Users\Aluno\source\repos\DesafioMedico\DesafioMedico\obj\Debug\DesafioMedico.exe
+C:\Users\Aluno\source\repos\DesafioMedico\DesafioMedico\obj\Debug\DesafioMedico.pdb
